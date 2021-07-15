@@ -2,10 +2,12 @@
 
 
 🌱 I’m addicted to learning and growing every day
-🔭 I’m currently working on Javascript projects , Kali Linux
-🎓 I'm attending DeVry University for my B.S. IT & Networking concentration in Cyber Security
-💬 Ask me about anything
 
+🔭 I’m currently working on Javascript projects & Kali Linux
+
+🎓 I'm attending DeVry University for my B.S. IT & Networking concentration in Cyber Security
+
+💬 Ask me about anything
 
 📬 Get in touch
 
