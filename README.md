@@ -4,8 +4,8 @@
 🌱 I’m addicted to learning and growing every day
 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/ez_rios)](https://twitter.com/rbhatia46/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-bhatia-67ba08121/)](https://https://www.linkedin.com/in/ezenielrios/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/ez_rios)](https://https://twitter.com/ez_rios)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ezenielrios/)](https://https://www.linkedin.com/in/ezenielrios/)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenielrios&langs_count=5&theme=tokyonight)]()
 
