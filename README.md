@@ -1,8 +1,9 @@
-### Hi there ![image](https://user-images.githubusercontent.com/75400864/125865558-b43d87eb-317d-4101-abaf-ce2458547d7a.png) welcome to my Github! 
+### Hi there 👋! welcome to my Github! 
+
 
 🌱 I’m addicted to learning and growing every day
 🔭 I’m currently working on Javascript projects , Kali Linux
-
+🎓 I'm attending DeVry University for my B.S. IT & Networking concentration in Cyber Security
 💬 Ask me about anything
 
 
