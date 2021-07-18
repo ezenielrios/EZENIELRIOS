@@ -3,7 +3,7 @@
 
 🌱 I’m addicted to learning and growing every day
 
-🔭 I’m currently working on a fairly large project with react in the front-end, will be adding some API's and its own server with node and express. Final toouches will involve a database.
+🔭 I’m currently working on a fairly large project with react in the front-end, will be adding some API's and its own server with node and express. Final touches will involve a database.
 
 🎓 I'm attending DeVry University for my B.S. IT & Networking concentration in Cyber Security
 
