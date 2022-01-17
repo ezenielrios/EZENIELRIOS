@@ -16,6 +16,7 @@
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenielrios&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenielrios&layout=compact)](https://github.com/ezenielrios/github-readme-stats)
 
 
 Check out my repos ⬇️
