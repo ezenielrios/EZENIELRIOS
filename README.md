@@ -5,6 +5,7 @@
 🔭 I’m currently working on a fairly large project with react in the front-end, will be adding some API's and its own server with node and express. Final touches will involve a database. In addittion to completing this project I'll be completing smaller javascript projects. Cant wait to show you what I'm up to! 
 
 🎓 I'm attending DeVry University in my senior year for my B.S Information Technology & Networking concentration in Cyber Security graduating 2/23
+
 🎓 I will also be graduating with my A.A.S in Information Technology and Networking concentration Network Administration next month 2/22
 
 💬 Ask me about anything
