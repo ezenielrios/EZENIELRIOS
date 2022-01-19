@@ -2,7 +2,7 @@
 
 🌱 I’m addicted to learning and growing every day
 
-🔭 I’m currently working on a fairly large project with react in the front-end, will be adding some API's and its own server with node and express. Final touches will involve a database. In addittion to completing this project I'll be completing smaller javascript projects. Cant wait to show you what I'm up to! 
+🔭 I’m currently working on a fairly large project with react in the front-end, will be adding some API's and its own server with node and express. Final touches will involve a database. In addittion to completing this project I'll be completing several javascript and java projects. Cant wait to show you what I'm up to! 
 
 🎓 I'm attending DeVry University in my senior year for my B.S Information Technology & Networking concentration in Cyber Security graduating 2/23
 
