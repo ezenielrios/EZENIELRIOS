@@ -10,7 +10,7 @@
 
 💬 Ask me about anything
 
-📬 Get in touch
+📬 Get in touch 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ez_rios)](https://twitter.com/ez_rios)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezenielrios/)](https://www.linkedin.com/in/ezenielrios/)
