@@ -8,6 +8,8 @@
 
 🎓 I will also be graduating with my A.A.S in Information Technology and Networking concentration Network Administration next month 2/22
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenielrios&langs_count=10&hide=PowerShell,Batchfile&theme=tokyonight)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezenielrios)
 💬 Ask me about anything
 
 📬 Get in touch 
