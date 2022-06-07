@@ -2,11 +2,11 @@
 
 🌱 I’m addicted to learning and growing every day
 
-🔭 I’m currently working on a fairly large project with react in the front-end, will be adding some API's and its own server with node and express. Final touches will involve a database. In addittion to completing this project I'll be completing several javascript and java projects. Cant wait to show you what I'm up to! 
+🔭 The application will be available with two services(Python & Java). Features will include(Login, Registration, Display Products, Cart, Checkout, and View of previous orders). BDD, 90% Unit Test Coverage along with test documentation.
 
 🎓 I'm attending DeVry University in my senior year for my B.S Information Technology & Networking concentration in Cyber Security graduating 2/23
 
-🎓 I will also be graduating with my A.A.S in Information Technology and Networking concentration Network Administration next month 2/22
+🎓 I have also been awarded my A.A.S in Information Technology and Networking concentration Network Administration from DeVry on 2/22.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenielrios&langs_count=10&hide=PowerShell,Batchfile&theme=tokyonight)
 
