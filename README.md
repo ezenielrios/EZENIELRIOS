@@ -4,7 +4,7 @@
 
 🔭 I'm currently working on an eCommerce site. The application will be available with two services(Python & Java). Features will include(Login, Registration, Display Products, Cart, Checkout, and View of previous orders). BDD, 90% Unit Test Coverage along with test documentation.
 
-🎓 I'm attending DeVry University in my senior year for my B.S Information Technology & Networking concentration in Cyber Security graduating 2/23
+🎓 I'm attending DeVry University in my senior year for my B.S Information Technology & Networking concentration in Cyber Security graduating 12/22
 
 🎓 I have also been awarded my A.A.S in Information Technology and Networking concentration Network Administration from DeVry on 2/22.
 
