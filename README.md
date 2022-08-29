@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ez_rios)](https://twitter.com/ez_rios)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezenielrios/)](https://www.linkedin.com/in/ezenielrios/)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezenielrios&count_private=true&layout=compact)]()
+
   
 
 Check out my repos ⬇️
