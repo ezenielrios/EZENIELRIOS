@@ -3,7 +3,7 @@
 🌱 I’m addicted to learning and growing every day
 
 🔭 I'm currently working on an eCommerce site. I'm utilizing a mix of the following:
--React-Router
+-ReactRouter
 -Firebase
 -Redux
 -Stripe Api
