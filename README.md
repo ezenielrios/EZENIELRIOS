@@ -3,22 +3,20 @@
 🌱 I’m addicted to learning and growing every day
 
 🔭 I'm currently working on an eCommerce site. I'm utilizing a mix of the following:
--ReactRouter
--Firebase
--Redux
--Stripe Api
--Styled components
--Redux-Saga
--Hooks
--Context Api
--GraphQL
--TypeScript
+- ReactRouter
+- Firebase
+- Redux
+- Stripe Api
+- Styled components
+- Redux-Saga
+- Hooks
+- Context Api
+- GraphQL
+- TypeScript
 
 and ofcourse they'll be plenty of testing and QA.  
 
-🎓 I'm attending DeVry University in my senior year for my B.S Information Technology & Networking concentration in Cyber Security graduating 12/22
-
-🎓 I have also been awarded my A.A.S in Information Technology and Networking concentration Network Administration from DeVry on 2/22.
+🎓 I have a B.S Information Technology & Networking concentration in Cyber Security 12/22 and an A.S in Information Technology and Networking concentration Network Administration from DeVry on 2/22.
 
 💬 Ask me about anything
 
