@@ -2,21 +2,12 @@
 
 🌱 I’m addicted to learning and growing every day
 
-🔭 I'm currently working on an eCommerce site. I'm utilizing a mix of the following:
-- ReactRouter
-- Firebase
-- Redux
-- Stripe Api
-- Styled components
-- Redux-Saga
-- Hooks
-- Context Api
-- GraphQL
-- TypeScript
-
-and ofcourse they'll be plenty of testing and QA.  
-
-🎓 I have a B.S Information Technology & Networking concentration in Cyber Security 12/22 and an A.S in Information Technology and Networking concentration Network Administration from DeVry on 2/22.
+🚀 Results-Driven IT Professional | DeVry Alumnus 🎓
+🔍 Passion for Analytical Problem-Solving | Data Enthusiast 📊
+🌐 Pursuing Master of Information Systems Management
+📡 Strong Web Development, Testing, and Debugging Skills
+🔐 Interested in Networking and Cybersecurity
+🤝 Thrives in Collaborative Environments | Let's Connect! 🌟
 
 💬 Ask me about anything
 
