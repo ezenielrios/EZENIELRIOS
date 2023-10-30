@@ -2,12 +2,12 @@
 
 🌱 I’m addicted to learning and growing every day
 
-🚀 Results-Driven IT Professional | DeVry Alumnus 🎓
-🔍 Passion for Analytical Problem-Solving | Data Enthusiast 📊
-🌐 Pursuing Master of Information Systems Management
-📡 Strong Web Development, Testing, and Debugging Skills
-🔐 Interested in Networking and Cybersecurity
-🤝 Thrives in Collaborative Environments | Let's Connect! 🌟
+- 🚀 Results-Driven IT Professional | DeVry Alumnus 🎓
+- 🔍 Passion for Analytical Problem-Solving | Data Enthusiast 📊
+- 🌐 Pursuing Master of Information Systems Management
+- 📡 Strong Web Development, Testing, and Debugging Skills
+- 🔐 Interested in Networking and Cybersecurity
+- 🤝 Thrives in Collaborative Environments | Let's Connect! 🌟
 
 💬 Ask me about anything
 
