@@ -92,13 +92,13 @@ I enjoy collaborating with others who care about:
 📬 Connect with me:
 
 LinkedIn
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezenielrios/)](https://www.linkedin.com/in/ezenielrios/)
 
-GitHub
 
 💬 Feel free to explore my repositories or reach out to talk security, technology, or research.
 
 ## 🧭 What This GitHub Represents
 This GitHub reflects my transition from general IT and development into focused cybersecurity and security research, emphasizing process, judgment, and communication—not just tools.
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezenielrios/)](https://www.linkedin.com/in/ezenielrios/)
+
 
 
